@@ -1,7 +1,7 @@
 \documentclass{article}
 
 \usepackage[backend=biber, style=authoryear-icomp]{biblatex}
-%\addbibresource{}
+\addbibresource{CS4182 Group 5 Project References.bib}
 \usepackage{titlesec}
 \usepackage{titling}
 \usepackage[margin=1.25in]{geometry}
@@ -11,11 +11,11 @@
 {\huge}
 {}
 {0.25em}
-{\filcenter\bfseries\lowercase}
+{\filcenter\bfseries}
 
 \titleformat{\subsection}
 {\bfseries}
-{\hspace{-.25in}$\bullet$}
+{\hspace{-.25in}}
 {0em}
 {}
 
@@ -37,8 +37,44 @@
 
 \maketitle
 
+\section{Progression of Autonomous Vehicles and Supporting Technologies}
 
+Since the constituents that make up autonomous vehicles are vast, we will be focusing on their key elements. Computing power paired with machine learning is exponentially improving the capabilities and safety of every vehicle and plays a vital role in receiving permits and permission from regulators to operate. Declining battery costs will drive down production costs which directly translates to savings for potential customers and drive-up the rate of adoption. The synergy between batteries and software will be integral in keeping stable ranges and temperatures. Progress is also being made in establishing charging infrastructure that supports driverless vehicles using sustainable sources of energy. These aspects are vital to the success and widespread adoption of these vehicles.  
 
-%\printbibliography
+\subsection{The Importance of AI and Making Decisions}
 
+We are now in an age where the progress in technology is Accelerating. Along with the help of AI, the world will be a much different place in a few years time. Autonomous vehicles will come as the result of many rapidly developing technologies converging into a single product. These include neural networks, machine learning, deep learning, battery engineering, renewable energy, software engineering, and much more. 
+
+Every autonomous vehicle must exhibit some intelligence and ability to make its own decisions if it wants to navigate the constant changing environment. It needs to accept several inputs from the outside such as geometric shapes and signs and output an action that will result in safe and smooth driving. It needs to distinguish between what needs to be avoided, predict the paths of different creatures, anticipate where everything will end up due to physics and much more. There is no viable way for developers to manually code every situation as the effort that’s demanded is gargantuan.  
+
+Artificial Intelligence works in this context because as you feed it more data, it will gradually learn patterns which is not too different from how the human mind learns. You must have high quality, real world data and the quantity must be substantial and retrieved in an efficient manner.  
+
+\subsection{Image-Recognition Training}
+
+First, humans label video clips but soon a big central processing unit will make it so that humans are needed less, and the AI will automatically label points based on interventions from clients. Andrej Karpathy named this goal as mission Vacation, where the final goal is to have every human employee go on a vacation while the neural network continues its training. In the paper \cite{karpathy2014large}, researchers produced predictions for an entire video by randomly sampling 20 clips and presenting each clip individually to the neural network.
+
+Right now, Tesla is using a huge central computer called Dojo to train the neural network with no limitations. It can process a lot of data with impressive speed. Thus begins the march of nines, where safety can never be 100\% assured but we can converge to it as closely as possible. Once Dojo is confident in handling most situations and edge cases, software engineers can then refactor it, making it more efficient to make it compatible with the computers and memory held in autonomous vehicles. It has now also gotten to a point where the neural network KNOWS what its weak points are and can specifically request the driving network to retrieve specific edge cases so that it won’t be getting redundant information that it’s already adept at handling. 
+
+\subsection{Hardware Requirements}
+
+Computer hardware needs to be able to handle the processing of videos and logic and prediction algorithms. This means that manufacturers must calculate the amount of processing power that is needed and then implement a computer of suitable specifications in the vehicles to avoid the pain of upgrading them should be prove incapable of handling the computations and the storage of data. It also must be efficient enough so that it won’t absorb too much drivable range from the vehicle. 
+
+\subsection{Batteries}
+
+Electric cars are getting more efficient and battery costs are declining (following a predictable cost curve) , with the infrastructure also improving rapidly. Solar and wind is spreading as their value proposition becomes more compelling. Jeff Dahn’s continued research in various battery chemistries have yielded promising results. Using a certain mix of nickel, cobalt, aluminum, etc., a battery that lasts a million miles or more with minimal degradation is possible.  
+
+\subsection{Decentralised Power, Renewable Energy}
+
+Decentralised grids will make sure that charging stations aren’t reliant on a single source of power. To charge the cars, they might have to do it autonomously as well. Experiments are being done with charging robots that can detect ports and plug it in. Battery swapping? Improved wireless charging technologies? Software should also change how a battery operates, working in its heating and cooling components intelligently. 
+
+\subsection{Software in a World of Autonomy}
+
+Software will also become a big part of autonomous vehicles as customers will now have free time on their hands to enjoy the screens in the middle. It might need to connect to the Internet via 5G or satellite to stream content at acceptable speeds. Receivers are becoming smaller and more efficient. The software experience should be smooth and will require suitable computer hardware to run it. Its design should be easy to navigate. It should take inspiration from strides made in the mobile phone and video game industry. Avoid obsolescence by implementing capability to receive over-the-air updates. The actual autonomous driving capabilities should also be improved using over-the-air updates instead of manually updating in an updating warehouse to save land space and resources and labour. 
+
+\subsection{Building Trust Using Data}
+
+What about the progress in building the trust of the general public? Companies must strive to prove that their vehicles will have the chance of failure. Governments will have to put safety regulations in place. What regulations have been placed on other mode of transport in the past? Companies can build confidence by making public how their technology works and how it’s improving. Track record will be highly important. The data it collects to train the autonomous network must be protected and be anonymous and there are encryption methods. "Trust is an
+evolving and fragile phenomenon and can be destroyed much more quickly and easily than it can be created." \cite{hengstler2016applied}
+
+\printbibliography
 \end{document}
