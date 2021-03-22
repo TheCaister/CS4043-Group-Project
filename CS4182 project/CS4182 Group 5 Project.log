@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=latex 2021.3.16)  22 MAR 2021 11:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  22 MAR 2021 17:56
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -39,7 +39,7 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
 (D:\MikTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -404,29 +404,22 @@ with kernel methods
 \c@Item=\count388
 \c@Hfootnote=\count389
 )
-Package hyperref Info: Driver (default): hdvips.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(D:\MikTeX\tex/latex/hyperref\hdvips.def
-File: hdvips.def 2021-02-27 v7.00k Hyperref driver for dvips
-
-(D:\MikTeX\tex/latex/hyperref\pdfmark.def
-File: pdfmark.def 2021-02-27 v7.00k Hyperref definitions for pdfmark specials
-\pdf@docset=\toks18
-\pdf@box=\box48
-\pdf@toks=\toks19
-\pdf@defaulttoks=\toks20
-\HyField@AnnotCount=\count390
-\Fld@listcount=\count391
-\c@bookmark@seq@number=\count392
-
-(D:\MikTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(D:\MikTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
 
 (D:\MikTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
+\Fld@listcount=\count390
+\c@bookmark@seq@number=\count391
+
+(D:\MikTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
 (D:\MikTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -434,20 +427,16 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip76
-))
-\@quotelevel=\count393
-\@quotereset=\count394
+)
+\@quotelevel=\count392
+\@quotereset=\count393
 
-(D:\MikTeX\tex/latex/l3backend\l3backend-dvips.def
-File: l3backend-dvips.def 2021-03-02 L3 backend support: dvips
-\l__pdf_internal_box=\box49
-\g__pdf_backend_object_int=\count395
-\l__pdf_backend_content_box=\box50
-\l__pdf_backend_model_box=\box51
-\g__pdf_backend_annotation_int=\count396
-\g__pdf_backend_link_int=\count397
-\g__pdf_backend_link_sf_int=\count398
-) (CS4182 Group 5 Project.aux)
+(D:\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count394
+\l__pdf_internal_box=\box48
+)
+(CS4182 Group 5 Project.aux)
 \openout1 = `"CS4182 Group 5 Project.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -503,9 +492,9 @@ Package biblatex Info: Reference section=0 on input line 36.
 Package biblatex Info: Reference segment=0 on input line 36.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -546,7 +535,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (D:\MikTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count399
+\c@section@level=\count395
 )
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
@@ -564,8 +553,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
  [1
 
-] [2]
-Overfull \hbox (9.23079pt too wide) in paragraph at lines 80--80
+{C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+Overfull \hbox (9.23079pt too wide) in paragraph at lines 81--81
 [][]\OT1/cmr/m/n/10 Hengstler, Monika, Ellen Enkel, and Selina Du-elli (2016). 
 ``Ap-plied ar-ti-fi-cial in-tel-li-gence and trust|The
  []
@@ -579,12 +568,21 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15045 strings out of 479335
- 257008 string characters out of 2873630
- 992513 words of memory out of 3000000
- 32374 multiletter control sequences out of 15000+200000
+ 15017 strings out of 479334
+ 256607 string characters out of 2873604
+ 985169 words of memory out of 3000000
+ 32331 multiletter control sequences out of 15000+200000
  407725 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,6n,80p,831b,1189s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,6n,74p,831b,1179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
+>
+Output written on "CS4182 Group 5 Project.pdf" (3 pages, 110510 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on "CS4182 Group 5 Project.dvi" (3 pages, 16536 bytes).

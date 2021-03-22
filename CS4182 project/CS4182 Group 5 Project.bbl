@@ -19,6 +19,68 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{ali2019towards}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=bf9e0b6457d9fb85fc391edc353d6800}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Umair},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c79a57c1f481b37a70702350f731d771}{%
+           family={Zafar},
+           familyi={Z\bibinitperiod},
+           given={Amad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=803494544b0cc88b4d5e6d0649d7852d}{%
+           family={Nengroo},
+           familyi={N\bibinitperiod},
+           given={Sarvar\bibnamedelima Hussain},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f66ec7aa33d6aa3c7bedbd82cbe2e31}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Sadam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7781798ae87a1c7349de75b66a9ad090}{%
+           family={Junaid\bibnamedelima Alvi},
+           familyi={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8d559f96a1bcdbd733f4408c6cd9b35}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hee-Je},
+           giveni={H\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{b642721f251770ba3da6c5d74120cc2c}
+      \strng{fullhash}{10c4014cf0068add13e3a0df727c3222}
+      \strng{bibnamehash}{b642721f251770ba3da6c5d74120cc2c}
+      \strng{authorbibnamehash}{b642721f251770ba3da6c5d74120cc2c}
+      \strng{authornamehash}{b642721f251770ba3da6c5d74120cc2c}
+      \strng{authorfullhash}{10c4014cf0068add13e3a0df727c3222}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{3}
+      \field{title}{Towards a smarter battery management system for electric vehicle applications: A critical review of lithium-ion battery state of charge estimation}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{446}
+      \range{pages}{1}
+    \endentry
     \entry{hengstler2016applied}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=dd39d1449e25196f9779c707b7ace720}{%
@@ -118,6 +180,108 @@
       \field{year}{2014}
       \field{pages}{1725\bibrangedash 1732}
       \range{pages}{8}
+    \endentry
+    \entry{nunes2015day}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1e7e11dc853da16e16552098be643cce}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd86a00a9fdb24acc3f51554672399bc}{%
+           family={Farias},
+           familyi={F\bibinitperiod},
+           given={Tiago},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6187e4319dae3e1d251198226d9d75d8}{%
+           family={Brito},
+           familyi={B\bibinitperiod},
+           given={Miguel\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \strng{fullhash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \strng{bibnamehash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \strng{authorbibnamehash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \strng{authornamehash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \strng{authorfullhash}{1462f12f1b3d51ded3b02c4bd583da8e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy}
+      \field{title}{Day charging electric vehicles with excess solar electricity for a sustainable energy system}
+      \field{volume}{80}
+      \field{year}{2015}
+      \field{pages}{263\bibrangedash 274}
+      \range{pages}{12}
+    \endentry
+    \entry{van2011energy}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2d4d39870bce5af8c612042705f2f452}{%
+           family={Van\bibnamedelima Vliet},
+           familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d15db5f98ae8653d0cffb9d5c7618e6}{%
+           family={Brouwer},
+           familyi={B\bibinitperiod},
+           given={Anne\bibnamedelima Sjoerd},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab9a74e6fb08b6978cf616593e424774}{%
+           family={Kuramochi},
+           familyi={K\bibinitperiod},
+           given={Takeshi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c75343a0450bf4d837584395615e920}{%
+           family={Den\bibnamedelima Broek},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Machteld},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=1b9e7b6916b85a08ce464a3cc048d7a6}{%
+           family={Faaij},
+           familyi={F\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0cd500ac2e8cd5b32745fd86fc5118c5}
+      \strng{fullhash}{097f9573ebfc208fd28a34e015838ce1}
+      \strng{bibnamehash}{0cd500ac2e8cd5b32745fd86fc5118c5}
+      \strng{authorbibnamehash}{0cd500ac2e8cd5b32745fd86fc5118c5}
+      \strng{authornamehash}{0cd500ac2e8cd5b32745fd86fc5118c5}
+      \strng{authorfullhash}{097f9573ebfc208fd28a34e015838ce1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of power sources}
+      \field{number}{4}
+      \field{title}{Energy use, cost and CO2 emissions of electric cars}
+      \field{volume}{196}
+      \field{year}{2011}
+      \field{pages}{2298\bibrangedash 2310}
+      \range{pages}{13}
     \endentry
   \enddatalist
 \endrefsection
