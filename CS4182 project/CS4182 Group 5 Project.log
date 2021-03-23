@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  22 MAR 2021 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  23 MAR 2021 20:33
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -568,21 +568,22 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15017 strings out of 479334
- 256607 string characters out of 2873604
- 985169 words of memory out of 3000000
- 32331 multiletter control sequences out of 15000+200000
- 407725 words of font info for 41 fonts, out of 3000000 for 9000
+ 15035 strings out of 479334
+ 257114 string characters out of 2873604
+ 986404 words of memory out of 3000000
+ 32345 multiletter control sequences out of 15000+200000
+ 408060 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,831b,1179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pf
-b><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
->
-Output written on "CS4182 Group 5 Project.pdf" (3 pages, 110510 bytes).
+ 71i,6n,74p,1075b,1449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Eddie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
+10.pfb>
+Output written on "CS4182 Group 5 Project.pdf" (3 pages, 114719 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -124,6 +124,38 @@
       \field{pages}{105\bibrangedash 120}
       \range{pages}{16}
     \endentry
+    \entry{hinton1992neural}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=813bd95fe553e6079cd53a567b238287}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{fullhash}{813bd95fe553e6079cd53a567b238287}
+      \strng{bibnamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authorbibnamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authornamehash}{813bd95fe553e6079cd53a567b238287}
+      \strng{authorfullhash}{813bd95fe553e6079cd53a567b238287}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific American}
+      \field{number}{3}
+      \field{title}{How neural networks learn from experience}
+      \field{volume}{267}
+      \field{year}{1992}
+      \field{pages}{144\bibrangedash 151}
+      \range{pages}{8}
+    \endentry
     \entry{karpathy2014large}{inproceedings}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=e91a4c2044bccdbef249eabc886ff988}{%
@@ -181,6 +213,37 @@
       \field{pages}{1725\bibrangedash 1732}
       \range{pages}{8}
     \endentry
+    \entry{makridakis2017forthcoming}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba8241955b5282793fdcf2d43c398cc6}{%
+           family={Makridakis},
+           familyi={M\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ba8241955b5282793fdcf2d43c398cc6}
+      \strng{fullhash}{ba8241955b5282793fdcf2d43c398cc6}
+      \strng{bibnamehash}{ba8241955b5282793fdcf2d43c398cc6}
+      \strng{authorbibnamehash}{ba8241955b5282793fdcf2d43c398cc6}
+      \strng{authornamehash}{ba8241955b5282793fdcf2d43c398cc6}
+      \strng{authorfullhash}{ba8241955b5282793fdcf2d43c398cc6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Futures}
+      \field{title}{The forthcoming Artificial Intelligence (AI) revolution: Its impact on society and firms}
+      \field{volume}{90}
+      \field{year}{2017}
+      \field{pages}{46\bibrangedash 60}
+      \range{pages}{15}
+    \endentry
     \entry{nunes2015day}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1e7e11dc853da16e16552098be643cce}{%
@@ -223,6 +286,38 @@
       \field{year}{2015}
       \field{pages}{263\bibrangedash 274}
       \range{pages}{12}
+    \endentry
+    \entry{pomerol1997artificial}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3306b828667ac148b61e8a24b9acbb5}{%
+           family={Pomerol},
+           familyi={P\bibinitperiod},
+           given={Jean-Charles},
+           giveni={J\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b3306b828667ac148b61e8a24b9acbb5}
+      \strng{fullhash}{b3306b828667ac148b61e8a24b9acbb5}
+      \strng{bibnamehash}{b3306b828667ac148b61e8a24b9acbb5}
+      \strng{authorbibnamehash}{b3306b828667ac148b61e8a24b9acbb5}
+      \strng{authornamehash}{b3306b828667ac148b61e8a24b9acbb5}
+      \strng{authorfullhash}{b3306b828667ac148b61e8a24b9acbb5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{Artificial intelligence and human decision making}
+      \field{volume}{99}
+      \field{year}{1997}
+      \field{pages}{3\bibrangedash 25}
+      \range{pages}{23}
     \endentry
     \entry{van2011energy}{article}{}
       \name{author}{5}{}{%

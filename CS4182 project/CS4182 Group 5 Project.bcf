@@ -2347,10 +2347,19 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">van2011energy</bcf:citekey>
-    <bcf:citekey order="2">ali2019towards</bcf:citekey>
-    <bcf:citekey order="3">nunes2015day</bcf:citekey>
-    <bcf:citekey order="4">karpathy2014large</bcf:citekey>
-    <bcf:citekey order="5">hengstler2016applied</bcf:citekey>
+    <bcf:citekey order="2">van2011energy</bcf:citekey>
+    <bcf:citekey order="3">ali2019towards</bcf:citekey>
+    <bcf:citekey order="4">ali2019towards</bcf:citekey>
+    <bcf:citekey order="5">nunes2015day</bcf:citekey>
+    <bcf:citekey order="6">nunes2015day</bcf:citekey>
+    <bcf:citekey order="7">makridakis2017forthcoming</bcf:citekey>
+    <bcf:citekey order="8">makridakis2017forthcoming</bcf:citekey>
+    <bcf:citekey order="9">pomerol1997artificial</bcf:citekey>
+    <bcf:citekey order="10">pomerol1997artificial</bcf:citekey>
+    <bcf:citekey order="11">hinton1992neural</bcf:citekey>
+    <bcf:citekey order="12">hinton1992neural</bcf:citekey>
+    <bcf:citekey order="13">karpathy2014large</bcf:citekey>
+    <bcf:citekey order="14">hengstler2016applied</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
