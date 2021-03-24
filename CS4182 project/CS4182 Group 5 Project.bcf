@@ -2358,8 +2358,13 @@
     <bcf:citekey order="10">pomerol1997artificial</bcf:citekey>
     <bcf:citekey order="11">hinton1992neural</bcf:citekey>
     <bcf:citekey order="12">hinton1992neural</bcf:citekey>
-    <bcf:citekey order="13">karpathy2014large</bcf:citekey>
-    <bcf:citekey order="14">hengstler2016applied</bcf:citekey>
+    <bcf:citekey order="13">waymo</bcf:citekey>
+    <bcf:citekey order="14">waymo</bcf:citekey>
+    <bcf:citekey order="15">durrant2006simultaneous</bcf:citekey>
+    <bcf:citekey order="16">durrant2006simultaneous</bcf:citekey>
+    <bcf:citekey order="17">karpathy2014large</bcf:citekey>
+    <bcf:citekey order="18">karpathy2014large</bcf:citekey>
+    <bcf:citekey order="19">hengstler2016applied</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

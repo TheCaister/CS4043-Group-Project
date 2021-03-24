@@ -81,6 +81,44 @@
       \field{pages}{446}
       \range{pages}{1}
     \endentry
+    \entry{durrant2006simultaneous}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=25adb16e1e973b04b027303ccb7e5fcf}{%
+           family={Durrant-Whyte},
+           familyi={D\bibinithyphendelim W\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a37c63e1fc8eaedec4ea9e27569c27d3}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{210de09a158ffbef02c16824a43de295}
+      \strng{fullhash}{210de09a158ffbef02c16824a43de295}
+      \strng{bibnamehash}{210de09a158ffbef02c16824a43de295}
+      \strng{authorbibnamehash}{210de09a158ffbef02c16824a43de295}
+      \strng{authornamehash}{210de09a158ffbef02c16824a43de295}
+      \strng{authorfullhash}{210de09a158ffbef02c16824a43de295}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE robotics \& automation magazine}
+      \field{number}{2}
+      \field{title}{Simultaneous localization and mapping: part I}
+      \field{volume}{13}
+      \field{year}{2006}
+      \field{pages}{99\bibrangedash 110}
+      \range{pages}{12}
+    \endentry
     \entry{hengstler2016applied}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=dd39d1449e25196f9779c707b7ace720}{%
@@ -377,6 +415,21 @@
       \field{year}{2011}
       \field{pages}{2298\bibrangedash 2310}
       \range{pages}{13}
+    \endentry
+    \entry{waymo}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{title}{Waymo}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://waymo.com/
+      \endverb
+      \verb{url}
+      \verb https://waymo.com/
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

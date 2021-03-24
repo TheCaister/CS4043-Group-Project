@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  23 MAR 2021 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  24 MAR 2021 20:24
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -559,7 +559,12 @@ Overfull \hbox (9.23079pt too wide) in paragraph at lines 81--81
 ``Ap-plied ar-ti-fi-cial in-tel-li-gence and trust|The
  []
 
-[3] (CS4182 Group 5 Project.aux)
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 80.
+ [4] (CS4182 Group 5 Project.aux)
 Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
 d.
 (rerunfilecheck)             Checksum: 3EEDE28B6246B1917C6FA5868EB598B7;1777.
@@ -568,22 +573,23 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15035 strings out of 479334
- 257114 string characters out of 2873604
- 986404 words of memory out of 3000000
- 32345 multiletter control sequences out of 15000+200000
- 408060 words of font info for 42 fonts, out of 3000000 for 9000
+ 15056 strings out of 479334
+ 257513 string characters out of 2873604
+ 986534 words of memory out of 3000000
+ 32361 multiletter control sequences out of 15000+200000
+ 408529 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,1075b,1449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,6n,74p,1816b,1449s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Eddie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
-10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (3 pages, 114719 bytes).
+csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "CS4182 Group 5 Project.pdf" (4 pages, 138036 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
