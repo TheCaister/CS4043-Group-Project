@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'CS4182 Group 5 Project.blg'
-[191] biber-MSWIN64:340> INFO - === 
-[261] Biber.pm:415> INFO - Reading 'CS4182 Group 5 Project.bcf'
-[462] Biber.pm:952> INFO - Found 16 citekeys in bib section 0
-[488] Biber.pm:4340> INFO - Processing section 0
-[506] Biber.pm:4531> INFO - Looking for bibtex format file 'CS4182 Group 5 Project References.bib' for section 0
-[623] bibtex.pm:1689> INFO - LaTeX decoding ...
-[672] bibtex.pm:1494> INFO - Found BibTeX data source 'CS4182 Group 5 Project References.bib'
-[871] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[872] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[872] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[872] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[908] bbl.pm:654> INFO - Writing 'CS4182 Group 5 Project.bbl' with encoding 'UTF-8'
-[922] bbl.pm:757> INFO - Output to CS4182 Group 5 Project.bbl
+[204] biber-MSWIN64:340> INFO - === 
+[300] Biber.pm:415> INFO - Reading 'CS4182 Group 5 Project.bcf'
+[523] Biber.pm:952> INFO - Found 18 citekeys in bib section 0
+[551] Biber.pm:4340> INFO - Processing section 0
+[570] Biber.pm:4531> INFO - Looking for bibtex format file 'CS4182 Group 5 Project References.bib' for section 0
+[717] bibtex.pm:1689> INFO - LaTeX decoding ...
+[786] bibtex.pm:1494> INFO - Found BibTeX data source 'CS4182 Group 5 Project References.bib'
+[1045] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1045] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1046] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1046] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1085] bbl.pm:654> INFO - Writing 'CS4182 Group 5 Project.bbl' with encoding 'UTF-8'
+[1105] bbl.pm:757> INFO - Output to CS4182 Group 5 Project.bbl

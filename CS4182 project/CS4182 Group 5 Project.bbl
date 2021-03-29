@@ -156,6 +156,92 @@
       \field{pages}{1700\bibrangedash 1716}
       \range{pages}{17}
     \endentry
+    \entry{chen2014dadiannao}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=1,uniquepart=given,hash=4c292d30bee8609dcb1af7d2d37b8457}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yunji},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a1f4daa7b45285d7e67b2894521fb63b}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6980e73d952cf4f9cc032260ad7c82d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shaoli},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97a538df13c144ba36e3461214e2700f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shijin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e43b070020e42345928171d1676603b7}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Liqiang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e453927e646e355f3edb61c5518de1d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=a40d576b1592c607417a95d741c0e8d4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=07ebcf1dcee64752ca6dff43efc8dc67}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tianshi},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=62b6be7d1cb1fe8fa9bb3c3b79f32e5f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhiwei},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65d66c2cabd830e47daf671b3878a518}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Ninghui},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{50e23a36a2cf96880430d1e4d119522b}
+      \strng{fullhash}{d0a875ebb856be7dc08a460213d79530}
+      \strng{bibnamehash}{50e23a36a2cf96880430d1e4d119522b}
+      \strng{authorbibnamehash}{50e23a36a2cf96880430d1e4d119522b}
+      \strng{authornamehash}{50e23a36a2cf96880430d1e4d119522b}
+      \strng{authorfullhash}{d0a875ebb856be7dc08a460213d79530}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 47th Annual IEEE/ACM International Symposium on Microarchitecture}
+      \field{title}{Dadiannao: A machine-learning supercomputer}
+      \field{year}{2014}
+      \field{pages}{609\bibrangedash 622}
+      \range{pages}{14}
+    \endentry
     \entry{curiel2019towards}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f874cd7285fa02396930d5007dc5c677}{%
@@ -458,12 +544,12 @@
     \endentry
     \entry{li2021deep}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=0cbf640ad59e5f6e57dd497fb6360f58}{%
+        {{un=1,uniquepart=given,hash=0cbf640ad59e5f6e57dd497fb6360f58}{%
            family={Li},
            familyi={L\bibinitperiod},
            given={Guofa},
            giveni={G\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=f933721eda523afb4ddd1f8c01aba5fe}{%
            family={Yang},
            familyi={Y\bibinitperiod},
@@ -616,6 +702,36 @@
       \field{year}{1997}
       \field{pages}{3\bibrangedash 25}
       \range{pages}{23}
+    \endentry
+    \entry{autonomyday}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f3182163857c5463c883017ff1cd3cc}{%
+           family={Tesla},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {YouTube}%
+      }
+      \strng{namehash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{fullhash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{bibnamehash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{authorbibnamehash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{authornamehash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{authorfullhash}{8f3182163857c5463c883017ff1cd3cc}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla Autonomy Day}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=Ucp0TTmvqOE
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=Ucp0TTmvqOE
+      \endverb
     \endentry
     \entry{van2011energy}{article}{}
       \name{author}{5}{}{%

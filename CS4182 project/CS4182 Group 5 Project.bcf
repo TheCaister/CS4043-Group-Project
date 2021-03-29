@@ -2376,7 +2376,11 @@
     <bcf:citekey order="28">durrant2006simultaneous</bcf:citekey>
     <bcf:citekey order="29">karpathy2014large</bcf:citekey>
     <bcf:citekey order="30">karpathy2014large</bcf:citekey>
-    <bcf:citekey order="31">hengstler2016applied</bcf:citekey>
+    <bcf:citekey order="31">chen2014dadiannao</bcf:citekey>
+    <bcf:citekey order="32">chen2014dadiannao</bcf:citekey>
+    <bcf:citekey order="33">autonomyday</bcf:citekey>
+    <bcf:citekey order="34">autonomyday</bcf:citekey>
+    <bcf:citekey order="35">hengstler2016applied</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

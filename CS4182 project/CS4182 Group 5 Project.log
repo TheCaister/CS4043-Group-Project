@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  29 MAR 2021 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  29 MAR 2021 19:25
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -553,19 +553,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
  [1
 
-{C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
-
-Overfull \hbox (9.23079pt too wide) in paragraph at lines 135--135
+{C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 110.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 110.
+ [5]
+Overfull \hbox (9.23079pt too wide) in paragraph at lines 134--134
 [][]\OT1/cmr/m/n/10 Hengstler, Monika, Ellen Enkel, and Selina Du-elli (2016). 
 ``Ap-plied ar-ti-fi-cial in-tel-li-gence and trust|The
  []
 
-[6]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 134.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 134.
- [7] (CS4182 Group 5 Project.aux)
+[6] [7] (CS4182 Group 5 Project.aux)
 Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
 d.
 (rerunfilecheck)             Checksum: 0C1049F28E91D2BA02E662EECE97B256;3165.
@@ -574,23 +573,24 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15103 strings out of 479334
- 258583 string characters out of 2873604
- 987954 words of memory out of 3000000
- 32394 multiletter control sequences out of 15000+200000
+ 15114 strings out of 479334
+ 258872 string characters out of 2873604
+ 988084 words of memory out of 3000000
+ 32403 multiletter control sequences out of 15000+200000
  408529 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,1180b,1449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,6n,74p,1375b,1461s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Eddie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
-csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
-r17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/t
-ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (7 pages, 160401 bytes).
+csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
+10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "CS4182 Group 5 Project.pdf" (7 pages, 180101 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
