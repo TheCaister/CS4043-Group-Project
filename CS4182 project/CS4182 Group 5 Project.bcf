@@ -2346,25 +2346,37 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">CS4182 Group 5 Project References.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">van2011energy</bcf:citekey>
-    <bcf:citekey order="2">van2011energy</bcf:citekey>
-    <bcf:citekey order="3">ali2019towards</bcf:citekey>
-    <bcf:citekey order="4">ali2019towards</bcf:citekey>
-    <bcf:citekey order="5">nunes2015day</bcf:citekey>
-    <bcf:citekey order="6">nunes2015day</bcf:citekey>
-    <bcf:citekey order="7">makridakis2017forthcoming</bcf:citekey>
-    <bcf:citekey order="8">makridakis2017forthcoming</bcf:citekey>
-    <bcf:citekey order="9">pomerol1997artificial</bcf:citekey>
-    <bcf:citekey order="10">pomerol1997artificial</bcf:citekey>
-    <bcf:citekey order="11">hinton1992neural</bcf:citekey>
-    <bcf:citekey order="12">hinton1992neural</bcf:citekey>
-    <bcf:citekey order="13">waymo</bcf:citekey>
-    <bcf:citekey order="14">waymo</bcf:citekey>
-    <bcf:citekey order="15">durrant2006simultaneous</bcf:citekey>
-    <bcf:citekey order="16">durrant2006simultaneous</bcf:citekey>
-    <bcf:citekey order="17">karpathy2014large</bcf:citekey>
-    <bcf:citekey order="18">karpathy2014large</bcf:citekey>
-    <bcf:citekey order="19">hengstler2016applied</bcf:citekey>
+    <bcf:citekey order="1">beiker2012legal</bcf:citekey>
+    <bcf:citekey order="2">beiker2012legal</bcf:citekey>
+    <bcf:citekey order="3">horwick2010strategy</bcf:citekey>
+    <bcf:citekey order="4">horwick2010strategy</bcf:citekey>
+    <bcf:citekey order="5">curiel2019towards</bcf:citekey>
+    <bcf:citekey order="6">curiel2019towards</bcf:citekey>
+    <bcf:citekey order="7">bhat2018tools</bcf:citekey>
+    <bcf:citekey order="8">bhat2018tools</bcf:citekey>
+    <bcf:citekey order="9">li2021deep</bcf:citekey>
+    <bcf:citekey order="10">li2021deep</bcf:citekey>
+    <bcf:citekey order="11">hevelke2015responsibility</bcf:citekey>
+    <bcf:citekey order="12">hevelke2015responsibility</bcf:citekey>
+    <bcf:citekey order="13">van2011energy</bcf:citekey>
+    <bcf:citekey order="14">van2011energy</bcf:citekey>
+    <bcf:citekey order="15">ali2019towards</bcf:citekey>
+    <bcf:citekey order="16">ali2019towards</bcf:citekey>
+    <bcf:citekey order="17">nunes2015day</bcf:citekey>
+    <bcf:citekey order="18">nunes2015day</bcf:citekey>
+    <bcf:citekey order="19">makridakis2017forthcoming</bcf:citekey>
+    <bcf:citekey order="20">makridakis2017forthcoming</bcf:citekey>
+    <bcf:citekey order="21">pomerol1997artificial</bcf:citekey>
+    <bcf:citekey order="22">pomerol1997artificial</bcf:citekey>
+    <bcf:citekey order="23">hinton1992neural</bcf:citekey>
+    <bcf:citekey order="24">hinton1992neural</bcf:citekey>
+    <bcf:citekey order="25">waymo</bcf:citekey>
+    <bcf:citekey order="26">waymo</bcf:citekey>
+    <bcf:citekey order="27">durrant2006simultaneous</bcf:citekey>
+    <bcf:citekey order="28">durrant2006simultaneous</bcf:citekey>
+    <bcf:citekey order="29">karpathy2014large</bcf:citekey>
+    <bcf:citekey order="30">karpathy2014large</bcf:citekey>
+    <bcf:citekey order="31">hengstler2016applied</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

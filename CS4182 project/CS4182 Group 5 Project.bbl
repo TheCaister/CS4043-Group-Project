@@ -81,6 +81,137 @@
       \field{pages}{446}
       \range{pages}{1}
     \endentry
+    \entry{beiker2012legal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9c9a5ff55332fec70f4bac05843170a}{%
+           family={Beiker},
+           familyi={B\bibinitperiod},
+           given={Sven\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{a9c9a5ff55332fec70f4bac05843170a}
+      \strng{fullhash}{a9c9a5ff55332fec70f4bac05843170a}
+      \strng{bibnamehash}{a9c9a5ff55332fec70f4bac05843170a}
+      \strng{authorbibnamehash}{a9c9a5ff55332fec70f4bac05843170a}
+      \strng{authornamehash}{a9c9a5ff55332fec70f4bac05843170a}
+      \strng{authorfullhash}{a9c9a5ff55332fec70f4bac05843170a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Santa Clara L. Rev.}
+      \field{title}{Legal aspects of autonomous driving}
+      \field{volume}{52}
+      \field{year}{2012}
+      \field{pages}{1145}
+      \range{pages}{1}
+    \endentry
+    \entry{bhat2018tools}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0747279c63f40eba8e298e397ae052b4}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Anand},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe07e2c491e497ffb0b2ab9078ff3043}{%
+           family={Aoki},
+           familyi={A\bibinitperiod},
+           given={Shunsuke},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b288d277e10eb2a0423611769e6fafe1}{%
+           family={Rajkumar},
+           familyi={R\bibinitperiod},
+           given={Ragunathan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bd50d41cb0629ad194d0520297aada2e}
+      \strng{fullhash}{bd50d41cb0629ad194d0520297aada2e}
+      \strng{bibnamehash}{bd50d41cb0629ad194d0520297aada2e}
+      \strng{authorbibnamehash}{bd50d41cb0629ad194d0520297aada2e}
+      \strng{authornamehash}{bd50d41cb0629ad194d0520297aada2e}
+      \strng{authorfullhash}{bd50d41cb0629ad194d0520297aada2e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{9}
+      \field{title}{Tools and methodologies for autonomous driving systems}
+      \field{volume}{106}
+      \field{year}{2018}
+      \field{pages}{1700\bibrangedash 1716}
+      \range{pages}{17}
+    \endentry
+    \entry{curiel2019towards}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f874cd7285fa02396930d5007dc5c677}{%
+           family={Curiel-Ramirez},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Luis\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e2042dde97a4fe660caff7b1b55ac33}{%
+           family={Ramirez-Mendoza},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Ricardo\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46e1ae423157ad90bda960a525d9bdb8}{%
+           family={Carrera},
+           familyi={C\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=328b8ca135872f7fa058852379703b33}{%
+           family={Izquierdo-Reyes},
+           familyi={I\bibinithyphendelim R\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9dc4733725b699f335e8781d855fd8a}{%
+           family={Bustamante-Bello},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={M\bibnamedelima Rogelio},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{53dabd0221c6f93b920b4661dd029c3d}
+      \strng{fullhash}{0d93525a6ffcd8778cbe03b871356fa9}
+      \strng{bibnamehash}{53dabd0221c6f93b920b4661dd029c3d}
+      \strng{authorbibnamehash}{53dabd0221c6f93b920b4661dd029c3d}
+      \strng{authornamehash}{53dabd0221c6f93b920b4661dd029c3d}
+      \strng{authorfullhash}{0d93525a6ffcd8778cbe03b871356fa9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal on Interactive Design and Manufacturing (IJIDeM)}
+      \field{number}{1}
+      \field{title}{Towards of a modular framework for semi-autonomous driving assistance systems}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{111\bibrangedash 120}
+      \range{pages}{10}
+    \endentry
     \entry{durrant2006simultaneous}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=25adb16e1e973b04b027303ccb7e5fcf}{%
@@ -162,6 +293,44 @@
       \field{pages}{105\bibrangedash 120}
       \range{pages}{16}
     \endentry
+    \entry{hevelke2015responsibility}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8fdd593d5d8cd90a62256d7b3ef5dbd0}{%
+           family={Hevelke},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f25b416194117e946362edcba8c4b1e}{%
+           family={Nida-Rümelin},
+           familyi={N\bibinithyphendelim R\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{80c47615f90f60796c5a420649886c60}
+      \strng{fullhash}{80c47615f90f60796c5a420649886c60}
+      \strng{bibnamehash}{80c47615f90f60796c5a420649886c60}
+      \strng{authorbibnamehash}{80c47615f90f60796c5a420649886c60}
+      \strng{authornamehash}{80c47615f90f60796c5a420649886c60}
+      \strng{authorfullhash}{80c47615f90f60796c5a420649886c60}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and engineering ethics}
+      \field{number}{3}
+      \field{title}{Responsibility for crashes of autonomous vehicles: an ethical analysis}
+      \field{volume}{21}
+      \field{year}{2015}
+      \field{pages}{619\bibrangedash 630}
+      \range{pages}{12}
+    \endentry
     \entry{hinton1992neural}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=813bd95fe553e6079cd53a567b238287}{%
@@ -193,6 +362,42 @@
       \field{year}{1992}
       \field{pages}{144\bibrangedash 151}
       \range{pages}{8}
+    \endentry
+    \entry{horwick2010strategy}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=37a8a455ed65cf507a646daef14a6b3a}{%
+           family={Hörwick},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c609b192b52edd8bd2a7cf71ce3fc2d4}{%
+           family={Siedersberger},
+           familyi={S\bibinitperiod},
+           given={Karl-Heinz},
+           giveni={K\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8af66ce4183b8cea30e26a6137ee3789}
+      \strng{fullhash}{8af66ce4183b8cea30e26a6137ee3789}
+      \strng{bibnamehash}{8af66ce4183b8cea30e26a6137ee3789}
+      \strng{authorbibnamehash}{8af66ce4183b8cea30e26a6137ee3789}
+      \strng{authornamehash}{8af66ce4183b8cea30e26a6137ee3789}
+      \strng{authorfullhash}{8af66ce4183b8cea30e26a6137ee3789}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2010 IEEE Intelligent Vehicles Symposium}
+      \field{title}{Strategy and architecture of a safety concept for fully automatic and autonomous driving assistance systems}
+      \field{year}{2010}
+      \field{pages}{955\bibrangedash 960}
+      \range{pages}{6}
     \endentry
     \entry{karpathy2014large}{inproceedings}{}
       \name{author}{6}{}{%
@@ -250,6 +455,61 @@
       \field{year}{2014}
       \field{pages}{1725\bibrangedash 1732}
       \range{pages}{8}
+    \endentry
+    \entry{li2021deep}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0cbf640ad59e5f6e57dd497fb6360f58}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Guofa},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f933721eda523afb4ddd1f8c01aba5fe}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yifan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a2d1b749b718c0e57153fc4bd29d836}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Xingda},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e9f8c2f9f75e11add1ed60099cdcc1a}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Dongpu},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a626c08bb9f70b269b47aabd5d202cba}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Keqiang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ff584c0e25055742faf3ab51c6acd408}
+      \strng{fullhash}{ad3e1f31e5752eb7b04e42857491bf82}
+      \strng{bibnamehash}{ff584c0e25055742faf3ab51c6acd408}
+      \strng{authorbibnamehash}{ff584c0e25055742faf3ab51c6acd408}
+      \strng{authornamehash}{ff584c0e25055742faf3ab51c6acd408}
+      \strng{authorfullhash}{ad3e1f31e5752eb7b04e42857491bf82}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Knowledge-Based Systems}
+      \field{title}{A deep learning based image enhancement approach for autonomous driving at night}
+      \field{volume}{213}
+      \field{year}{2021}
+      \field{pages}{106617}
+      \range{pages}{1}
     \endentry
     \entry{makridakis2017forthcoming}{article}{}
       \name{author}{1}{}{%

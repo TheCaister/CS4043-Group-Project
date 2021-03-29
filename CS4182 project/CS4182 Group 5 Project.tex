@@ -37,6 +37,57 @@
 
 \maketitle
 
+\section{Current Safety and Efficiency of Autonomous Driving}
+
+Autonomous driving and autonomous vehicles are currently some of the most heavily studied and publicly followed technologies in the automotive realm. This technology could greatly improve safety, efficiency, and mobility by replacing the driver and relying on vehicles to navigate themselves through traffic. In order to accomplish the vision of autonomous driving, many technical challenges need still to be solved. But there are also many non-technical challenges to be considered on the path toward a vision of autonomous vehicles. The legal challenges being among the most critical. As automobiles are becoming more and more self-reliant in making mission-critical driving decisions, public policies, and technical standards need to be revisited to prepare courts and the public for the new realities of traffic with autonomous vehicles.[\textcite{beiker2012legal}]
+
+\subsection{Automatic and Autonomous Driving Assistance Systems}
+
+Firstly, it is important to note there is a difference between fully automatic and autonomous driving systems. The question “Does the driver have to stay in the loop, if he is driven by a car, which is completely guided by a computer?” has to be answered. In any case, from an outside view the behaviour of the car should take application dependent, definite rules into account such as road traffic regulations. In other words the vehicle has to act autonomous in terms according to moral law. In the civil area the effective moral law are road traffic regulations, which aim for collision avoidance and physical inviolability. [\textcite{horwick2010strategy}]
+\bigbreak
+The study type of active system used is known as the driver assistance system (DAS). This system helps the driver and provides a safer driving experience with technology that provides automated or adaptive driving functionalities. According to the Society of Automotive Engineers (SAE), there are six levels of vehicle autonomy[\textcite{curiel2019towards}]:
+\bigbreak
+\begin{itemize}
+\item Level 0: no automation. The driver has full control and performs all driving functions at all times.
+
+\item Level 1: driver assistance. The driver has full control, but the vehicle provides assistance for one or more driving functions, e.g., electronic stability control or assisted braking.
+
+\item Level 2: partial automation. The driver has primary control over the vehicle, but the vehicle can take full control of more than one driving mode, e.g., steering and acceleration/braking in combination.
+
+\item Level 3: conditional automation. The automated driving system has primary control and performs all driving functions under certain conditions. Human driver intervention is requested in many driving modes.
+
+\item Level 4: high automation. The automated driving system has almost full control over the vehicle. Human driver intervention is needed only in some driving modes.
+
+\item Level 5: full automation. The automated driving system has full control over the vehicle. No human driver intervention is needed.
+\end{itemize}
+
+\subsection{Safety Features(CAV’S)}
+
+With advances in sensing, machine learning, and computing systems, autonomous driving applications have become feasible and ready to use. This, combined with the use of communication technologies like dedicated short range communications (DSRC), autonomous vehicles can also communicate with each other, pedestrians and the infrastructure in the environment around them. We refer to vehicles with such capabilities as connected and autonomous vehicles (CAVs). As the number of applications and levels of autonomy increase, the complexity of CAVs continues to increase.
+\bigbreak
+ CAV systems consists of large numbers of sensors that sense its environment. The data from these sensors are fed into a computing system that runs a variety of software components. These software components process the data, perform calculations and control actuators to achieve autonomous driving applications. The design and modelling of various software components that constitute an important step in the development of CAV systems. This step also includes defining the interactions of these software components with each other and the hardware components. The next step in the development process involves the deployment of these components onto a real system.[\textcite{bhat2018tools}]
+
+\subsection{Problems to Overcome}
+
+ Most of the available computer vision applications are based on cameras that can only be used under the condition of normal light and clear weather, which makes most of the state-of-the-art models not suitable for night images. Traffic safety statistics show that 51.1\% of the U.S. fatal crashes happened at night (from 6 pm to 6 am), especially in rural areas with low illumination. Enhancing  night images for a clear traffic environment is a step in the right direction for traffic safety and should be incorporated into ADASs and CAVs.
+ \bigbreak
+However, the outline and appearance details of traffic participants are easily blurred at night, making it hard to tell apart target objects from the background. Therefore, restoring the details of low-light images is a hard task, especially for the low-light images. One method to solve this problem is histogram equalization (HE). HE makes brightness better distributed on the histogram, which can be used to enhance the local contrast without affecting the overall contrast. Another method is gamma correction, which increases the brightness of dark regions by compressing bright pixels. However, these approaches only focused on the night situations with external light sources (e.g., urban roads with street light). There is a need for an image enhancement model that can be used in darker areas because crashes and accidents are more likely to happen while driving in rural areas at night without streetlights[\textcite{li2021deep}].
+
+\subsection{Crashes and the Responsibility of the Manufacturer VS the Owner}
+
+Should we hold the manufacturers responsible for any crash caused by the vehicle? If there is some design decision in the system, which causes an accident in certain situations, or perhaps a flaw, they probably knew about or should have discovered. Why should they not have to take responsibility?
+\bigbreak
+On the other hand, there is question of whether we should try to promote the development of autonomous cars to begin with. In other words: should we try to design the liability for autonomous vehicles in such a way that it promotes their continuous development and improvement? Should such vehicles be allowed on our streets? If there are good moral reasons for finding the development and introduction of autonomous cars to be desirable, this can produce a moral obligation for the state to fashion the legal responsibility for crashes of autonomous cars in a way which helps the development and improvement of autonomous cars.
+\bigbreak
+There are many arguments which can be made in favour of or against the introduction of autonomous cars. Possible problems include privacy issues (Glancy 2012) and environmental harm from fully-autonomous vehicles, as these could lead to more vehicle-miles travelled (Elkind 2012). On the positive side, the introduction of autonomous cars might among other things enable the physically impaired, disabled or elderly to drive their own vehicles (Howard 2013).
+\bigbreak
+The development and widespread use of autonomous cars could cause a reduction of accidents, it could therefore save lives. Even if we are talking of a relatively small improvement like a reduction of 5\% it would save hundreds of lives a year in countries like the US in which deaths in road accidents go into the tens-of-thousands. 
+\bigbreak
+An alternative would be to hold the users of autonomous cars responsible for possible accidents. One way of doing this would be for the driver to pay attention to traffic and take control of the car when necessary. The liability of the driver in the case of an accident would be based on his failure to pay attention and intervene. The problem is that Autonomous vehicles would lose much of their use. It would not be possible to send the vehicle off to look for a parking place by itself or call for it when needed. 
+\bigbreak
+As long as there is some evidence that a system in which people must intervene would do noticeably better in terms of number of accidents than one in which autonomous vehicles are left to themselves there is much to be said in favour of such a duty. If the introduction of autonomous vehicles reduces accidents by fifteen percent, and a duty to intervene for the “driver” would lower the death rate by another fifteen, that would seem to create a moral obligation on drivers to be on the lookout for possible failure. Also, it would also give the technology an opportunity to develop gradually. Autonomous driving could slowly evolve, going from the current level of automation through a number of intermediate stages to fully autonomous cars. On the downside, self-driving cars would, in such a scenario, not be useable by physically impaired, disabled or elderly people[\textcite{hevelke2015responsibility}].
+
+
 \section{Progression of Autonomous Vehicles and Supporting Technologies}
 
 Since the constituents that make up autonomous vehicles are vast, we will be focusing on some key elements and how they are progressing. Computing power paired with machine learning is exponentially improving the capabilities and safety of every vehicle and plays a vital role in receiving permits and permission from regulators to operate. Declining battery costs will drive down production costs which directly translates to savings for potential customers and drive-up the rate of adoption. The gap between the total cost of ownership of battery powered electric vehicles and regular cars can be overcome if the cost of batteries drops to around
