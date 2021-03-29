@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  29 MAR 2021 15:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  29 MAR 2021 15:43
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -566,15 +566,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 134.
  [7] (CS4182 Group 5 Project.aux)
-
-Package rerunfilecheck Warning: File `"CS4182 Group 5 Project".out' has changed
-.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"CS4182 Group 5 Project".out':
-(rerunfilecheck)             Before: 6BD91F890241E44360F15690078F1924;3165
-(rerunfilecheck)             After:  0C1049F28E91D2BA02E662EECE97B256;3165.
+Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
+d.
+(rerunfilecheck)             Checksum: 0C1049F28E91D2BA02E662EECE97B256;3165.
 Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 \openout1 = `"CS4182 Group 5 Project.run.xml"'.
 
@@ -594,7 +588,7 @@ csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTeX/fonts/
 type1/public/amsfonts/cm/cmr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cm
 r17.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (7 pages, 160425 bytes).
+Output written on "CS4182 Group 5 Project.pdf" (7 pages, 160401 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)
