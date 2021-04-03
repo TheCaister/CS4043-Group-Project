@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  29 MAR 2021 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  3 APR 2021 12:55
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -553,30 +553,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
  [1
 
-{C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4]
+{C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 110.
+(Font)              <7> on input line 142.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 110.
- [5]
-Overfull \hbox (9.23079pt too wide) in paragraph at lines 134--134
-[][]\OT1/cmr/m/n/10 Hengstler, Monika, Ellen Enkel, and Selina Du-elli (2016). 
-``Ap-plied ar-ti-fi-cial in-tel-li-gence and trust|The
- []
+(Font)              <5> on input line 142.
+ [6] [7] [8]
+(CS4182 Group 5 Project.aux)
 
-[6] [7] (CS4182 Group 5 Project.aux)
-Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
-d.
-(rerunfilecheck)             Checksum: 0C1049F28E91D2BA02E662EECE97B256;3165.
+Package rerunfilecheck Warning: File `"CS4182 Group 5 Project".out' has changed
+.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"CS4182 Group 5 Project".out':
+(rerunfilecheck)             Before: 248C569FB60C63D4BBDF2DEFE5C4B3EA;3880
+(rerunfilecheck)             After:  4498F4381DAEFA04998B12F3755EBA07;4122.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 \openout1 = `"CS4182 Group 5 Project.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15114 strings out of 479334
- 258872 string characters out of 2873604
- 988084 words of memory out of 3000000
- 32403 multiletter control sequences out of 15000+200000
+ 15157 strings out of 479334
+ 259990 string characters out of 2873604
+ 988603 words of memory out of 3000000
+ 32434 multiletter control sequences out of 15000+200000
  408529 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,6n,74p,1375b,1461s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -588,9 +593,9 @@ csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts
 mr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (7 pages, 180101 bytes).
+Output written on "CS4182 Group 5 Project.pdf" (8 pages, 190287 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

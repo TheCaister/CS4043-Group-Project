@@ -81,6 +81,61 @@
       \field{pages}{446}
       \range{pages}{1}
     \endentry
+    \entry{alsalman2021users}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f2ac4e699aa00204f17c43cfde01075e}{%
+           family={Alsalman},
+           familyi={A\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c6c2d9144dd7abcd98a00b5138ad2ad}{%
+           family={Assi},
+           familyi={A\bibinitperiod},
+           given={Lateef\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bed7b793364ebbb168584fc23f6eaea5}{%
+           family={Ghotbi},
+           familyi={G\bibinitperiod},
+           given={Shabnam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cac5194e50b6538e815ec47a311e5a35}{%
+           family={Ghahari},
+           familyi={G\bibinitperiod},
+           given={SeyedAli},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a00b902f0f2bf7bc9ee4f9b97b314e98}{%
+           family={Shubbar},
+           familyi={S\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5678676372f937e084c5c8d9951381bc}
+      \strng{fullhash}{d9838c643092469fb033cfbe2fe63643}
+      \strng{bibnamehash}{5678676372f937e084c5c8d9951381bc}
+      \strng{authorbibnamehash}{5678676372f937e084c5c8d9951381bc}
+      \strng{authornamehash}{5678676372f937e084c5c8d9951381bc}
+      \strng{authorfullhash}{d9838c643092469fb033cfbe2fe63643}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Engineering}
+      \field{title}{Users, planners, and governments perspectives: A public survey on autonomous vehicles future advancements}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{100044}
+      \range{pages}{1}
+    \endentry
     \entry{beiker2012legal}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a9c9a5ff55332fec70f4bac05843170a}{%
@@ -111,6 +166,62 @@
       \field{year}{2012}
       \field{pages}{1145}
       \range{pages}{1}
+    \endentry
+    \entry{bezai2021future}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=50da094893c112bd299f2f65f0f8a17d}{%
+           family={Bezai},
+           familyi={B\bibinitperiod},
+           given={Nacer\bibnamedelima Eddine},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=989556bec44a3330d3c8b5e997065881}{%
+           family={Medjdoub},
+           familyi={M\bibinitperiod},
+           given={Benachir},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee8100be72ba08a19481be15e6ba7a7a}{%
+           family={Al-Habaibeh},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Amin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2c24ce5f4aed1bfe1ca568dbe389392}{%
+           family={Chalal},
+           familyi={C\bibinitperiod},
+           given={Moulay\bibnamedelima Larbi},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aef1069faf7327b4d57b97c8739545c8}{%
+           family={Fadli},
+           familyi={F\bibinitperiod},
+           given={Fodil},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{591525bbdc94c6b5fc12ddd36061b38a}
+      \strng{fullhash}{75d025ca872a63bd7da637ebcfc9cdab}
+      \strng{bibnamehash}{591525bbdc94c6b5fc12ddd36061b38a}
+      \strng{authorbibnamehash}{591525bbdc94c6b5fc12ddd36061b38a}
+      \strng{authornamehash}{591525bbdc94c6b5fc12ddd36061b38a}
+      \strng{authorfullhash}{75d025ca872a63bd7da637ebcfc9cdab}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy and Built Environment}
+      \field{number}{1}
+      \field{title}{Future cities and autonomous vehicles: analysis of the barriers to full adoption}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{65\bibrangedash 81}
+      \range{pages}{17}
     \endentry
     \entry{bhat2018tools}{article}{}
       \name{author}{3}{}{%
@@ -155,6 +266,37 @@
       \field{year}{2018}
       \field{pages}{1700\bibrangedash 1716}
       \range{pages}{17}
+    \endentry
+    \entry{bimbraw2015autonomous}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3473782716bd424863e130708c87b41a}{%
+           family={Bimbraw},
+           familyi={B\bibinitperiod},
+           given={Keshav},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3473782716bd424863e130708c87b41a}
+      \strng{fullhash}{3473782716bd424863e130708c87b41a}
+      \strng{bibnamehash}{3473782716bd424863e130708c87b41a}
+      \strng{authorbibnamehash}{3473782716bd424863e130708c87b41a}
+      \strng{authornamehash}{3473782716bd424863e130708c87b41a}
+      \strng{authorfullhash}{3473782716bd424863e130708c87b41a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 12th international conference on informatics in control, automation and robotics (ICINCO)}
+      \field{title}{Autonomous cars: Past, present and future a review of the developments in the last century, the present scenario and the expected future of autonomous vehicle technology}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{191\bibrangedash 198}
+      \range{pages}{8}
     \endentry
     \entry{chen2014dadiannao}{inproceedings}{}
       \true{moreauthor}
@@ -336,49 +478,6 @@
       \field{pages}{99\bibrangedash 110}
       \range{pages}{12}
     \endentry
-    \entry{hengstler2016applied}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=dd39d1449e25196f9779c707b7ace720}{%
-           family={Hengstler},
-           familyi={H\bibinitperiod},
-           given={Monika},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=834924331f058d30f658a5f7e638f81d}{%
-           family={Enkel},
-           familyi={E\bibinitperiod},
-           given={Ellen},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8bd0b18c7600c7a77fb64094668f9bad}{%
-           family={Duelli},
-           familyi={D\bibinitperiod},
-           given={Selina},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \strng{fullhash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \strng{bibnamehash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \strng{authorbibnamehash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \strng{authornamehash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \strng{authorfullhash}{986788cf3c358fd7ef0cffcb7a5fb4e6}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Technological Forecasting and Social Change}
-      \field{title}{Applied artificial intelligence and trust—The case of autonomous vehicles and medical assistance devices}
-      \field{volume}{105}
-      \field{year}{2016}
-      \field{pages}{105\bibrangedash 120}
-      \range{pages}{16}
-    \endentry
     \entry{hevelke2015responsibility}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fdd593d5d8cd90a62256d7b3ef5dbd0}{%
@@ -542,6 +641,92 @@
       \field{pages}{1725\bibrangedash 1732}
       \range{pages}{8}
     \endentry
+    \entry{levinson2011towards}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=926db68449a2d0b1f2baca8fbcc55683}{%
+           family={Levinson},
+           familyi={L\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c32be622283333d1dca7e8ef71f78e6}{%
+           family={Askeland},
+           familyi={A\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71032b96293644b22a224465ee4a4de5}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9312622508e5bf1dbd0201c1548475cd}{%
+           family={Dolson},
+           familyi={D\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4687a6291e0e8f42818e47c8a6f11aa0}{%
+           family={Held},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=806fbf5740d5be4d4ec5ca3e0c3bfd4e}{%
+           family={Kammel},
+           familyi={K\bibinitperiod},
+           given={Soeren},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0288715a83a3349e44f9292c5c2149f7}{%
+           family={Kolter},
+           familyi={K\bibinitperiod},
+           given={J\bibnamedelima Zico},
+           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5a49bc7f7cf8aa1353e5919922c4186}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75f593a12f9df179fd13b83f33ff5c0f}{%
+           family={Pink},
+           familyi={P\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4c811ec90866da6350f251f46860f82}{%
+           family={Pratt},
+           familyi={P\bibinitperiod},
+           given={Vaughan},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8209249502e5f77cabe44b1d6a2575a1}
+      \strng{fullhash}{aafe056d7756288600e2435cd7a4cd22}
+      \strng{bibnamehash}{8209249502e5f77cabe44b1d6a2575a1}
+      \strng{authorbibnamehash}{8209249502e5f77cabe44b1d6a2575a1}
+      \strng{authornamehash}{8209249502e5f77cabe44b1d6a2575a1}
+      \strng{authorfullhash}{aafe056d7756288600e2435cd7a4cd22}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 IEEE Intelligent Vehicles Symposium (IV)}
+      \field{title}{Towards fully autonomous driving: Systems and algorithms}
+      \field{year}{2011}
+      \field{pages}{163\bibrangedash 168}
+      \range{pages}{6}
+    \endentry
     \entry{li2021deep}{article}{}
       \name{author}{5}{}{%
         {{un=1,uniquepart=given,hash=0cbf640ad59e5f6e57dd497fb6360f58}{%
@@ -597,6 +782,56 @@
       \field{pages}{106617}
       \range{pages}{1}
     \endentry
+    \entry{ma2021traffic}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ffa7c1dcaf14e62214a7451659f40559}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bde4bea0fee3c3f08af8c3e939e45f66}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c298a00198d09c1806985b98536031d}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f75cc8a074098c5192bc22620544238d}{%
+           family={Schramm},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{9dd39a8e888b9e18de9156557e3c0220}
+      \strng{fullhash}{08ee233394489da68d761bcf1b20c3a7}
+      \strng{bibnamehash}{9dd39a8e888b9e18de9156557e3c0220}
+      \strng{authorbibnamehash}{9dd39a8e888b9e18de9156557e3c0220}
+      \strng{authornamehash}{9dd39a8e888b9e18de9156557e3c0220}
+      \strng{authorfullhash}{08ee233394489da68d761bcf1b20c3a7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{1}
+      \field{title}{Traffic Simulation of Future Intelligent Vehicles in Duisburg City Inner Ring}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{29}
+      \range{pages}{1}
+    \endentry
     \entry{makridakis2017forthcoming}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ba8241955b5282793fdcf2d43c398cc6}{%
@@ -627,6 +862,81 @@
       \field{year}{2017}
       \field{pages}{46\bibrangedash 60}
       \range{pages}{15}
+    \endentry
+    \entry{mariani2021coordination}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aaa3eccf42f1b517875c619d2ed3de66}{%
+           family={Mariani},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bf1aae3ec59b13f5311c98735bd625b}{%
+           family={Cabri},
+           familyi={C\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=320af6a4c46c80444136b3a922a9baf0}{%
+           family={Zambonelli},
+           familyi={Z\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{56e54441233891256b9603cd399f67a2}
+      \strng{fullhash}{56e54441233891256b9603cd399f67a2}
+      \strng{bibnamehash}{56e54441233891256b9603cd399f67a2}
+      \strng{authorbibnamehash}{56e54441233891256b9603cd399f67a2}
+      \strng{authornamehash}{56e54441233891256b9603cd399f67a2}
+      \strng{authorfullhash}{56e54441233891256b9603cd399f67a2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{1}
+      \field{title}{Coordination of autonomous vehicles: taxonomy and survey}
+      \field{volume}{54}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+    \endentry
+    \entry{nieuwenhuis2012new}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7b3312b541c2019c72ddd55d648c3da0}{%
+           family={Nieuwenhuis},
+           familyi={N\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72ee34d45be80f421580b72bc87c88c1}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \strng{fullhash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \strng{bibnamehash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \strng{authorbibnamehash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \strng{authornamehash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \strng{authorfullhash}{062bc0e21896f218960e4c1a2bcf5b3e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Business Models for Alternative Fuel and Powertrain Vehicles}
+      \field{title}{New Business Models for Alternative Fuel and Alternative Powertrain vehicles; an infrastructure perspective}
+      \field{year}{2012}
     \endentry
     \entry{nunes2015day}{article}{}
       \name{author}{3}{}{%
@@ -702,6 +1012,67 @@
       \field{year}{1997}
       \field{pages}{3\bibrangedash 25}
       \range{pages}{23}
+    \endentry
+    \entry{santana2021transitioning}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7642f212e85af3da71916c4995b6fe20}{%
+           family={Santana},
+           familyi={S\bibinitperiod},
+           given={Eduardo\bibnamedelimb Felipe\bibnamedelima Zambom},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faa76977ce30e102ffb7a7e2c02ff4fa}{%
+           family={Covas},
+           familyi={C\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a0f730c1fde5fa8fe3349ede83c8000}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Fábio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f70201a3b3859fca365a379a2af7d9f9}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeb05a80989b576d5948e4cbf97421cc}{%
+           family={Ratti},
+           familyi={R\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa1b6c9f1476bc0e2f4c7fed93737a5d}{%
+           family={Kon},
+           familyi={K\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{41c3158549e4b38dbf2fe984bb199a83}
+      \strng{fullhash}{e78093bf7e6e0fd3c7bf8cb8603dab1e}
+      \strng{bibnamehash}{41c3158549e4b38dbf2fe984bb199a83}
+      \strng{authorbibnamehash}{41c3158549e4b38dbf2fe984bb199a83}
+      \strng{authornamehash}{41c3158549e4b38dbf2fe984bb199a83}
+      \strng{authorfullhash}{e78093bf7e6e0fd3c7bf8cb8603dab1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Simulation Modelling Practice and Theory}
+      \field{title}{Transitioning to a driverless city: Evaluating a hybrid system for autonomous and non-autonomous vehicles}
+      \field{volume}{107}
+      \field{year}{2021}
+      \field{pages}{102210}
+      \range{pages}{1}
     \endentry
     \entry{autonomyday}{online}{}
       \name{author}{1}{}{%
