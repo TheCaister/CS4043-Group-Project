@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  15 APR 2021 19:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  22 APR 2021 15:18
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -439,24 +439,24 @@ File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 (CS4182 Group 5 Project.aux)
 \openout1 = `"CS4182 Group 5 Project.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (D:\MikTeX\tex/latex/biblatex/lbx\english.lbx
@@ -488,8 +488,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"CS4182 Group 5 Project".bbl' found.
 
 (CS4182 Group 5 Project.bbl)
-Package biblatex Info: Reference section=0 on input line 37.
-Package biblatex Info: Reference segment=0 on input line 37.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -525,7 +525,7 @@ Package biblatex Info: Reference segment=0 on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 39.
 (D:\MikTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -537,27 +537,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count395
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
 
 (CS4182 Group 5 Project.out) (CS4182 Group 5 Project.out)
 \@outlinefile=\write4
 \openout4 = `"CS4182 Group 5 Project.out"'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 40.
+(Font)              <12> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 40.
+(Font)              <8> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 42.
  [1
 
 {C:/Users/Eddie/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 125.
+(Font)              <7> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 125.
+(Font)              <5> on input line 127.
  [6] [7] [8]
 [9] (CS4182 Group 5 Project.aux)
 Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
@@ -570,7 +570,7 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 Here is how much of TeX's memory you used:
  15159 strings out of 479334
  260012 string characters out of 2873604
- 987685 words of memory out of 3000000
+ 987686 words of memory out of 3000000
  32435 multiletter control sequences out of 15000+200000
  408529 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -583,7 +583,7 @@ csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts
 mr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (9 pages, 196960 bytes).
+Output written on "CS4182 Group 5 Project.pdf" (9 pages, 196388 bytes).
 PDF statistics:
  225 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
