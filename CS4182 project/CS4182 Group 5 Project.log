@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  22 APR 2021 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.16)  27 APR 2021 11:49
 entering extended mode
 **"./CS4182 Group 5 Project.tex"
 (CS4182 Group 5 Project.tex
@@ -560,9 +560,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 127.
  [6] [7] [8]
 [9] (CS4182 Group 5 Project.aux)
-Package rerunfilecheck Info: File `"CS4182 Group 5 Project".out' has not change
-d.
-(rerunfilecheck)             Checksum: 561B2183687FE4975A5A9B2A68272801;4122.
+
+Package rerunfilecheck Warning: File `"CS4182 Group 5 Project".out' has changed
+.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"CS4182 Group 5 Project".out':
+(rerunfilecheck)             Before: DB2DA2A62AA64D5A2AC23290432F5560;4994
+(rerunfilecheck)             After:  41AEC2366E45B2BBE5F323C78D39C917;5156.
 Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 \openout1 = `"CS4182 Group 5 Project.run.xml"'.
 
@@ -570,7 +576,7 @@ Package logreq Info: Writing requests to '"CS4182 Group 5 Project".run.xml'.
 Here is how much of TeX's memory you used:
  15159 strings out of 479334
  260012 string characters out of 2873604
- 987686 words of memory out of 3000000
+ 989686 words of memory out of 3000000
  32435 multiletter control sequences out of 15000+200000
  408529 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -583,7 +589,7 @@ csc10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTeX/fonts
 mr12.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTeX/fonts/t
 ype1/public/amsfonts/cm/cmr7.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmti
 10.pfb><D:/MikTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "CS4182 Group 5 Project.pdf" (9 pages, 196388 bytes).
+Output written on "CS4182 Group 5 Project.pdf" (9 pages, 200884 bytes).
 PDF statistics:
  225 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
